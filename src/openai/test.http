@@ -1,0 +1,7 @@
+### Generate Response
+POST http://localhost:3000/openai/generate-response
+Content-Type: application/json
+
+{
+  "question": "강남에서 장사할만한 장소 알려줘 평수는 넓고 김치찌개 장사할만 곳이였으면 좋겠어"
+}
